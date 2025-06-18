@@ -39,17 +39,6 @@ Several scripts in this series highlight the **practical power of automation**:
 
 Even small scripts can reduce manual effort and spark big ideas.
 
-## 🚀 How to Run
-
-Clone this repo to your machine:
-
-```bash
-git clone https://github.com/your-username/Python_Learning.git
-cd Python_Learning
-
-Run with any Python 3 interpreter:
-python filename.py
-
 ✅ **Learning Goals:**
 
 -Gain fluency writing and reading Python code
@@ -67,3 +56,15 @@ This is a personal learning project, but you're welcome to fork it, suggest idea
 
 📅 **Updates**
 This repository is updated on an ongoing basis with new concepts and projects. Stay tuned—and happy coding!
+
+## 🚀 How to Run
+
+Clone this repo to your machine:
+
+```bash
+git clone https://github.com/your-username/Python_Learning.git
+cd Python_Learning
+
+Run with any Python 3 interpreter:
+python filename.py
+
