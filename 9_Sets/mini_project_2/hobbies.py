@@ -1,3 +1,5 @@
+# create a set difference of hobbies
+
 hobbies_person1 = {"reading", "watching movies", "playing chess", "travelling"}
 hobbies_person2 = {"reading", "cooking", "volunterring"}
 

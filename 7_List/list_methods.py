@@ -62,7 +62,7 @@ print(lst4)
 lst4.remove(4)
 print(lst4)
 
-# delete method - remove by index
+# del keyword - remove by index
 lst5 = [1,3,5,7,9]
 del lst5[2]
 print(lst5)
