@@ -1,0 +1,3 @@
+Welcome to this file
+Hi my name is new file
+I am a text file
