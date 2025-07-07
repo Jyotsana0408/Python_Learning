@@ -1,6 +1,8 @@
 # reduce(): Combine Items into a Single Value
 # Higher order function
 # Applies a function cumulatively to reduce an iterable to one result.
+# Must import from functools.
+# Useful for summing, multiplying, or aggregating data.
 
 from functools import reduce
 

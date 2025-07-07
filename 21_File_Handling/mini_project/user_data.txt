@@ -1,2 +1,1 @@
-This is a text file
-you can add your to do list here
+this is a text file
