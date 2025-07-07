@@ -26,7 +26,7 @@ import os
 # shutil.move("tutorial/tutorial.txt", " tutorial.txt")
 
 # While shutil is great for directories, it doesn't directly support deleting individual files.
-#  For that, Python recommends using the os module.
+# For that, Python recommends using the os module.
 
 
 # shutil.rmtree("my_folder")  # Deletes folder and all contents
